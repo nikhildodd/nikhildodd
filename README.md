@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Welcome to my Github. Expect cool projects from cool person (me)
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildodd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildodd)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nikhildodd/nikhildodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
