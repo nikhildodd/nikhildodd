@@ -2,6 +2,18 @@
 ### Welcome to my Github. Expect cool projects from cool person (me)
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildodd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildodd&theme=tokyonight&exclude_repo=CSE185&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Many projects are **private** repos since they are still in development or have private keys. If you would like to view a project, use some way of contact to ask for permission to view.
+### Projects that are Private
+1. Discord Bot (node.js, discordjs, AWS) - in progress
+2. Discord Bot [voice] (python, discord.py, heroku) - in progress
+3. React portfolio - in progress
+4. Django Fun
+5. Static Bootstrap site (not in use)
+6. Static HTML site (not in use)
+7. UCSC Coursework (CSE20, CMPS101, CSE130, CMPS160, CMPS112, CSE185, CSE183)
+8. Twitch API site - just started/learning
+
 <!--
 **nikhildodd/nikhildodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
