@@ -21,7 +21,7 @@ Many projects are **private** repos since they are still in development or have 
 
 8. Twitch API site - just started/learning
 
-9. node.js course on Udemy (taught by Andrew Mead) || ** Languages/Tech: node.js, MongoDB, Postman, several npm modules **
+9. node.js course on Udemy (taught by Andrew Mead) || **Languages/Tech: node.js, MongoDB, Postman, several npm modules**
 
 <!--
 **nikhildodd/nikhildodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
