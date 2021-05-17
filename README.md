@@ -23,6 +23,8 @@ Many projects are **private** repos since they are still in development or have 
 
 9. node.js course on Udemy (taught by Andrew Mead) || **Languages/Tech: node.js, MongoDB, Postman, several npm modules**
 
+10. Swift Practice - Stanford CS193P Course on learning Swift || **Languages: Swift**
+
 <!--
 **nikhildodd/nikhildodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
