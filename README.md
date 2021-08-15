@@ -1,10 +1,11 @@
 ### Hi there 👋
 ### Welcome to my Github. Expect cool projects from cool person (me)
+### If you would like to view one of the private projects below, please contact me using the provided methods on my Resume.
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildodd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildodd&theme=tokyonight&exclude_repo=CSE185&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Many projects are **private** repos since they are still in development or have private keys. If you would like to view a project, use some way of contact to ask for permission to view.
-### Projects that are Private
+## Projects that are Private
 1. Discord Bot (node.js, discordjs, AWS(old), Heroku (current)) - in progress || **Language: Javascript**
 
 2. Discord Bot [voice] (python, discord.py, heroku) - in progress || **Language: Python**
