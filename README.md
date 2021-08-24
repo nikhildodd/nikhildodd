@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to my Github. Expect cool projects from cool person (me)
+### Welcome to my Github.
 ### If you would like to view one of the private projects below, please contact me using the provided methods on my Resume.
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhildodd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildodd&theme=tokyonight&exclude_repo=CSE185&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
