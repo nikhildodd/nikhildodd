@@ -6,9 +6,9 @@
 
 Many projects are **private** repos since they are still in development or have private keys. If you would like to view a project, use some way of contact to ask for permission to view.
 ## Projects that are Private
-1. Discord Bot (node.js, discordjs, AWS(old), Heroku (current)) - in progress || **Language: Javascript**
+1. Discord Bot (node.js, discordjs, AWS(old), Heroku (current)) - Done (new features added every so often) || **Language: Javascript**
 
-2. Discord Bot [voice] (python, discord.py, heroku) - in progress || **Language: Python**
+2. Discord Bot [voice] (python, discord.py, heroku) - Done || **Language: Python**
 
 3. React portfolio - in progress || **Language: JS/React**
 
