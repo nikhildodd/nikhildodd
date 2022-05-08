@@ -26,6 +26,8 @@ Many projects are **private** repos since they are still in development or have 
 
 10. Swift Practice - Stanford CS193P Course on learning Swift || **Languages: Swift**
 
+11. NextJS Portfolio - Learning next.js and making a portfolio containing my current works || **Languages: JS**
+
 <!--
 **nikhildodd/nikhildodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
